@@ -1,0 +1,41 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+venv2/
+.env
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Compiled source
+__pycache__/
+*.pyc
+*.pyo
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extension
+*.so
+
+# Dist folders
+dist/
+build/
+
+# Egg and wheel distribution
+*.egg-info/
+*.egg
+*.egg-info
+
+# Distribution/Installer scripts
+*.build/
+*.out/
+*.egg-info/
